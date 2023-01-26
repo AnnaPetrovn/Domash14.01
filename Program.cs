@@ -13,13 +13,17 @@ void DegreeFinding(double number, double degree)
 
 DegreeFinding(5, 4);
 
+
+
+
+
 /*Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
 
 452 -> 11
 
 82 -> 10
 
-9012 -> 12*/
+9012 -> 12
 
 void SumOfNumsDigit()
    {
@@ -45,7 +49,7 @@ void SumOfNumsDigit()
 
 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 
-6, 1, 33 -> [6, 1, 33]*/
+6, 1, 33 -> [6, 1, 33]
 
 void PrintOfElements ()
 { 
@@ -57,4 +61,4 @@ void PrintOfElements ()
 }
 }
 
-PrintOfElements();
+PrintOfElements();*/
